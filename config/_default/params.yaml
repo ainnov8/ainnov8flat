@@ -13,13 +13,13 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   identity:
     # Site name - shown in navbar, footer, copyright, and browser title by default
-    name: "Beacon"
+    name: "Ainnov8 Technologies Ltd"
     # Legal entity for copyright notices (defaults to name if not set)
     organization: ""
     # Schema.org type for structured data
     type: organization # person | organization | local_business
     # Short tagline displayed on your site
-    tagline: "The customer feedback platform for product teams."
+    tagline: "The customer product company you can trust."
     # Site meta description for search engines and social sharing
     description: "Beacon captures customer feedback from every channel — Slack,
       email, support, in-app — and uses AI to surface what matters. Turn customer
@@ -307,7 +307,7 @@ hugoblox:
     # Requires: HugoBlox Premium to support HugoBlox via alternative means
     # Note: Even with Premium, you can keep this false to support open source!
     # Get Premium: https://hugoblox.com/premium
-    hide_attribution: false
+    hide_attribution: true
 
     # Affiliate referral code for rewards program
     # Join affiliate program: https://hugoblox.com/affiliates
