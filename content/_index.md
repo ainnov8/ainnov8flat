@@ -1,13 +1,13 @@
 ---
 title: 'Home'
-date: 2023-10-24
+date: 2026-07-15
 type: landing
 
 sections:
   - block: hero
     content:
-      eyebrow: Beacon for product teams
-      title: Turn customer [noise] into your roadmap
+      eyebrow: Ainnov8 Technologies
+      title: The customer [product] company you can trust
       text: Capture feedback from every channel — Slack, email, support, in-app — and let AI surface what matters.
       primary_action:
         text: Start free
