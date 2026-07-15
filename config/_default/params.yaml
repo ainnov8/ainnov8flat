@@ -21,22 +21,25 @@ hugoblox:
     # Short tagline displayed on your site
     tagline: "The customer product company you can trust."
     # Site meta description for search engines and social sharing
-    description: "Beacon captures customer feedback from every channel — Slack,
-      email, support, in-app — and uses AI to surface what matters. Turn customer
-      noise into your roadmap."
+    description: "Ainnov8 is a full-service web design and technology 
+    company that helps businesses of all sizes grow and succeed. 
+    Our team of experienced professionals is dedicated to providing 
+    the highest quality service and results. We take pride in our 
+    reputation for providing consistent, reliable service and delivering
+    on our promise to always exceed our clients’ expectations."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
-      twitter: "GoOwnable" # Twitter/X handle for Twitter Cards (without @)
+      twitter: "Ainnov8" # Twitter/X handle for Twitter Cards (without @)
       # Site-wide social links (rendered in footer, etc.)
       links:
         - icon: brands/x
-          url: https://x.com/GoOwnable
+          url: https://x.com/ainnov8_
         - icon: brands/github
-          url: https://github.com/HugoBlox/kit
-        - icon: brands/discord
-          url: https://discord.gg/z8wNYzb
+          url: https://github.com/ainnov8/
+        # - icon: brands/discord
+        #   url: https://discord.gg/z8wNYzb
         - icon: brands/linkedin
-          url: https://linkedin.com/company/example
+          url: https://linkedin.com/company/ainnov8
 
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
